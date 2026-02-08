@@ -1,6 +1,6 @@
-#Système Intelligent de Recommandation de Destinations de Voyage
+# Système Intelligent de Recommandation de Destinations de Voyage
 
-##Introduction du projet
+## Introduction du projet
 
 Dans le cadre de ce projet académique réalisé à l’IHEC Carthage, nous avons développé  
 un **système intelligent de recommandation de destinations de voyage** sous forme  
@@ -15,14 +15,14 @@ intégrant des éléments visuels (images, boutons, labels dynamiques).
 
 ---
 
-##Aperçu de l’interface
+## Aperçu de l’interface
 
-###Écran principal & interface utilisateur
+### Écran principal & interface utilisateur
 ![Interface principale](images/background.jpg)
 
 ---
 
-##Fonctionnement du système intelligent
+## Fonctionnement du système intelligent
 
 1. L’utilisateur répond à une série de questions (préférences de voyage)
 2. Les réponses sont converties en vecteur de caractéristiques
@@ -32,7 +32,7 @@ intégrant des éléments visuels (images, boutons, labels dynamiques).
 
 ---
 
-##Destinations proposées par le système
+## Destinations proposées par le système
 
 Les destinations sont illustrées par des images intégrées à l’application :
 
@@ -52,21 +52,21 @@ Les destinations sont illustrées par des images intégrées à l’application 
 
 ---
 
-##Liens avec les concepts du cours d’Intelligence Artificielle
+## Liens avec les concepts du cours d’Intelligence Artificielle
 
 Ce projet applique directement plusieurs notions vues en cours :
 
-###Agents intelligents
+### Agents intelligents
 - Le système agit comme un **agent autonome**
 - Il perçoit l’environnement via l’interface (questions)
 - Il raisonne grâce au modèle ML
 - Il agit en affichant une recommandation
 
-###Capteurs
+### Capteurs
 - Boutons **Oui / Non**
 - Interaction utilisateur (clavier / souris)
 
-###Actionneurs
+### Actionneurs
 - Labels dynamiques
 - Images affichées selon la prédiction
 
@@ -76,19 +76,19 @@ Ce fonctionnement illustre les concepts :
 
 ---
 
-##Choix du thème
+## Choix du thème
 
-###Pertinence académique
+### Pertinence académique
 - Représentation des connaissances (dataset)
 - Inférence (Machine Learning)
 - Agents autonomes et flexibles
 
-###Simplicité & richesse
+### Simplicité & richesse
 - Domaine accessible (voyage)
 - Problème réel de recherche dans un espace d’états
 - Optimisation vers un état objectif (destination idéale)
 
-###Utile pour rapport et soutenance
+### Utile pour rapport et soutenance
 - Maîtrise complète du cycle IA :
   - État initial
   - Actions
@@ -97,7 +97,7 @@ Ce fonctionnement illustre les concepts :
 
 ---
 
-##Technologies utilisées
+## Technologies utilisées
 
 - **Python**
 - **Tkinter** (interface graphique)
@@ -108,7 +108,7 @@ Ce fonctionnement illustre les concepts :
 
 ---
 
-##Conclusion
+## Conclusion
 
 Ce projet démontre la capacité à concevoir un **système intelligent complet**,  
 combinant **interface graphique**, **raisonnement automatique** et **prise de décision**,  
